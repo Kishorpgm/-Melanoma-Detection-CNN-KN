@@ -86,21 +86,23 @@ The data set contains the following diseases:
 
 ### **Baseline Model**
 
-Accuracy and Loss charts for the baseline model 
+Accuracy and Loss charts for the baseline model
 
-![][image1]
+![][image1]![Baseline model](https://github.com/user-attachments/assets/d801c28a-74ce-4f1a-a4a6-47463151380b)
+
 
 ### **Augmented Model**
 
 Accuracy and Loss charts for the augmented model 
 
-![][image2]
+![][image2]![Augmented model](https://github.com/user-attachments/assets/6e6f1280-7960-4b77-82e7-ea99ed7aed48)
 
-Final Model
 
+### **Final Model**
 Accuracy and Loss charts for the final model 
 
-![][image3]
+![][image3]![Final model](https://github.com/user-attachments/assets/7144c3ae-7690-4bd4-9bfe-3e984280dcc9)
+
 
 # **Conclusion**
 
